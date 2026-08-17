@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PRHQ</title>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Mon, 17 Aug 2026 01:08:01 +0000</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/prhq-app/releases/releases/download/v1.0.3/PRHQ-1.0.3.zip" length="2631355" type="application/octet-stream" sparkle:edSignature="KNgPi7oZmDt9jchr22xYl1S14eDZAHbMzfBvVu/hq0lS5v4+tLRH5KccaCrrPxOIkU44HCG19E8DdGiBXZYbAA=="/>
+        </item>
+    </channel>
+</rss>
