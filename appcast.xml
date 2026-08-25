@@ -3,6 +3,15 @@
     <channel>
         <title>PRHQ</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Tue, 25 Aug 2026 05:46:24 +0000</pubDate>
+            <sparkle:version>1.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/prhq-app/releases/releases/download/v1.0.6/PRHQ-1.0.6.zip" length="2685170" type="application/octet-stream" sparkle:edSignature="E5VqD00y/iz5JY74Y1OKfnZJJbWKKjvVXS5BzlS3+UC+bo3qh/4VQWql29Sma15Y62XHivzoIG8o5BxKJxOYCQ=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Sat, 22 Aug 2026 04:32:12 +0000</pubDate>
             <sparkle:version>1.0.5</sparkle:version>
